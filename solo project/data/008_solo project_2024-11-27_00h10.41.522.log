@@ -1,0 +1,2 @@
+12.3901 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+48.8850 	WARNING 	Requested image 'images/std-7.jpeg' not found but similar filename 'images/std-7.png' exists. This will be used instead but changing the filename is advised.
